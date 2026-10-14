@@ -1,0 +1,12 @@
+# Diagnostic output can contain personal or machine-specific details
+*.log
+*.evtx
+diagnostic-output*
+system-info*
+*.dmp
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
